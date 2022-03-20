@@ -1,7 +1,7 @@
 # untuk-TA
 Problem:
 CRUD pada fitur Admin di:
-kategori (//admin/kategori.php, 
+kategori (//admin/kategori.php), 
 produk (//admin/produk.php), 
 metode pembayaran (//admin/pembayaran.php), 
 kelola pelanggan (//admin/customer.php), 
